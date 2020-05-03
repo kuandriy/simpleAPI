@@ -1,0 +1,3 @@
+{
+        "DBConnectionString": "mongodb+srv://projectmanager:nMWFYTjLWnEVfrVt@clusterhaulgate-eivdv.mongodb.net/test?retryWrites=true&w=majority"
+}
