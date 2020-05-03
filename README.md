@@ -9,7 +9,7 @@ defaults:
 - port: 3000
 
 Open API definition:
-- https://app.swaggerhub.com/apis/kuandriy/projects/1.0.0#/UpdateDescription
+- https://app.swaggerhub.com/apis/kuandriy/projects/1.0.0
 
 Postman examples:
 - Import from postman folder
