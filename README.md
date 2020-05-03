@@ -3,7 +3,7 @@ Simple REST API Read/Create/Update project
 
 run:
 - npm install
-- npm run
+- npm start
 defaults:
 - host: localhost
 - port: 3000
